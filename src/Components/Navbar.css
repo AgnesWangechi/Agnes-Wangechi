@@ -36,4 +36,6 @@ nav{
 #navbar li a:hover{
     color: #f00cb3;
 }
-
+#nav-items{
+    display: flex;
+}

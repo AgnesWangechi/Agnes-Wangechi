@@ -13,8 +13,8 @@ const Navbar = () => {
                     <li><a href="index.html">Projects</a></li>
                     <li><a href="index.html">Contact</a></li>
                 </ul>
+                <button><a href="index.html">Resume</a></button>
             </div>
-            <button><a href="index.html">Resume</a></button>
         </nav>
     </div>
   )
