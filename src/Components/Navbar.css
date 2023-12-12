@@ -35,7 +35,7 @@ nav{
     transition: 0.3s ease-in-out;
 }
 #navbar li a:hover{
-    color: hsl(316, 90%, 49%);
+    color: #ed0cb1;
 }
 #nav-items{
     display: flex;

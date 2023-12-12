@@ -13,10 +13,7 @@ h2
 h3
 {
     font-size: 2.3rem;
-    color:hsl(316, 90%, 49%);
-    font-weight: 600;
-    text-decoration: underline;
-    
+    font-weight: 600;   
 }
 
 #H5
@@ -25,4 +22,10 @@ h3
 }
 p{
     font-size: 1.2rem;
+}
+#underline
+{
+    text-decoration: underline;
+    text-decoration-color: #ed0cb1;
+    text-decoration-thickness: 30% ;
 }
