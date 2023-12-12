@@ -46,26 +46,10 @@ button
 border:2px solid #ed0cb1;
 background: none;
 font-size: 1.1rem;
-transition: 0.4s ease-in-out;
-position: relative;
-overflow: hidden;
 }
 
 button a{
 text-decoration: none;
 color: black;
 font-weight: 600;
-}
-
-button :hover{
-    color:white;
-}
-button:before{
-    content: "";
-    position: absolute;
-    left: 0;
-    width: 100%;
-    height: 0%;
-    background: #ed0cb1;
-    z-index: -1;
 }
