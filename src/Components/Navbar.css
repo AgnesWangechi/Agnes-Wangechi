@@ -1,0 +1,28 @@
+nav{
+    display:flex;
+    align-items: center;
+    justify-content:space-between; 
+    
+}
+
+#navbar ul{ 
+    list-style: none;
+    display: flex;
+}
+
+#navbar li{
+    padding:0px 20px;
+    position: relative;
+}
+
+#navbar li a{
+    text-decoration:none ;
+    color: black;
+    font-weight: 600;
+    font-size: 1.0rem;
+    transition: 0.3s ease-in-out;
+}
+#navbar li a:hover{
+    color: #f00cb3;
+}
+
