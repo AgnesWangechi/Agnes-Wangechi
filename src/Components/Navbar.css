@@ -4,6 +4,7 @@ nav{
     justify-content:space-between; 
     padding: 10px 8%;
     
+    
 }
 .logo{
     color: #f00cb3;
@@ -34,7 +35,7 @@ nav{
     transition: 0.3s ease-in-out;
 }
 #navbar li a:hover{
-    color: #f00cb3;
+    color: hsl(316, 90%, 49%);
 }
 #nav-items{
     display: flex;
