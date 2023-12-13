@@ -43,15 +43,22 @@ nav{
 
 button 
 {
+margin-top: 6px;
 border:2px solid #ed0cb1;
 background: none;
-font-size: 1.1rem;
+font-size: 0.9rem;
 border-radius: 10px;
-
+width: 100px;
+height: 40px;
+}
+button:hover
+{
+background-color: rgb(255, 244, 253);
 }
 
 button a{
 text-decoration: none;
-color: black;
+color: #ed0cb1;
 font-weight: 600;
 }
+
