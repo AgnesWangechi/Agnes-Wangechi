@@ -15,8 +15,9 @@ const About = () => {
                      magnam cupiditate quos minus, perferendis id vitae esse nisi, 
                     neque labore!</p>
             </div>
-            <div className='imge'></div>
+            
         </section>
+        <div className='home_imge'></div>
     </div>
   )
 }
