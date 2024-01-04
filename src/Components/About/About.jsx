@@ -17,7 +17,6 @@ const About = () => {
             </div>
             
         </section>
-        <div className='home_imge'></div>
     </div>
   )
 }
