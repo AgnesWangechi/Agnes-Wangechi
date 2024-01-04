@@ -3,8 +3,8 @@ import React from 'react'
 const About = () => {
   return (
     <div>
-        <section class ="about">
-            <div class = "about-text">
+        <section class="about">
+            <div class="about-text">
                 <h1>About Me</h1>
                 <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
                     Praesentium delectus aperiam dolorum ducimus, 
@@ -15,6 +15,7 @@ const About = () => {
                      magnam cupiditate quos minus, perferendis id vitae esse nisi, 
                     neque labore!</p>
             </div>
+            <div className='imge'></div>
         </section>
     </div>
   )
