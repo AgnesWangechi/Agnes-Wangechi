@@ -1,0 +1,16 @@
+.Other{
+    padding: 6% 15%;
+}
+.Other .box{
+    background: #fce6f1;
+    height: 300px;
+    width: 400px;
+    margin: 15px;
+    float: left;
+    border-radius: 40px;
+}
+.box p{
+    text-align: center;
+    padding: 60px;
+}
+
